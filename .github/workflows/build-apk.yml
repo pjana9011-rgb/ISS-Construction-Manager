@@ -1,6 +1,6 @@
   name: Build ISS Android APK
 
-on:
+"on":
   workflow_dispatch:
 
 permissions:
